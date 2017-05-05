@@ -56,6 +56,7 @@
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div><!-- END OF /. COL -->
@@ -75,8 +76,8 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.html">
-                                <img src="<?php echo base_url('assets/images/logo.png'); ?>" class="img-responsive"  height="50" alt="">
+                            <a class="navbar-brand" href="<?php echo site_url(); ?>">
+                                <img src="<?php echo base_url('assets/images/logo-y.png'); ?>" class="img-responsive"  height="50" alt="">
                             </a>
                         </div>
 
@@ -107,53 +108,7 @@
                 </nav><!-- END OF /. NAVBAR -->
             </div><!-- END OF /. HEADER TOP SECTION -->
 
-            <!-- START SLIDER SECTION -->
-            <div class="slider-section">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                        <!-- Indicators -->
-                        <ol class="carousel-indicators">
-                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                        </ol>
 
-                        <!-- Wrapper for slides -->
-                        <div class="carousel-inner" role="listbox">
-                            <div class="item active">
-                                <img src="<?php echo base_url('assets/images/slider/1.jpg'); ?>" width="1920" height="925" alt="">
-                                <div class="carousel-caption">
-                                    <h1>A CREATIVE DESIGN AGENCY  </h1>
-                                    <p>TO ARTLESS 100% RESPONSIVE <b>K<span>l</span>asik</b> THEME</p>
-                                </div>
-                            </div><!-- END OF /. SLIDER ITEM -->
-                            <div class="item">
-                                <img src="<?php echo base_url('assets/images/slider/2.jpg'); ?>" width="1920" height="925" alt="">
-                                <div class="carousel-caption">
-                                    <h1>GREAT EXPERIENCES build designs!</h1>
-                                    <p>WITH BRIGHTER IDEAS THAT WORK</p>
-                                </div>
-                            </div><!-- END OF /. SLIDER ITEM -->
-                            <div class="item">
-                                <img src="<?php echo base_url('assets/images/slider/3.jpg'); ?>" width="1920" height="925" alt="">
-                                <div class="carousel-caption">
-                                    <h1>WE LOVE TO UNIQUE creative</h1>
-                                    <p>TO ARTLESS 100% RESPONSIVE <b>K<span>l</span>asik</b> THEME</p>
-                                </div>
-                            </div><!-- END OF /. SLIDER ITEM -->
-                            <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                                <span class="pe-7s-angle-left" aria-hidden="true"></span>
-                            </a>
-                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                                <span class="pe-7s-angle-right" aria-hidden="true"></span>
-                            </a>
-                        </div><!-- END OF /. CAROUSEL INNE-->
-                    </div><!-- END OF /. CAROUSEL -->
-                    </div>
-                </div><!-- END OF /. CONTAINER FLUID -->
-            </div><!-- END OF /. SELIDER SECTION -->
 
             <!-- START ABOUT SECTION -->
             <div class="section about-section" id="about">
@@ -204,67 +159,6 @@
                 </div><!-- END OF ./ CONTAINER -->
             </div><!-- END OF /. ABOUT SECTION -->
 
-            <!-- START WHY SECTION -->
-            <div class="section why-section">
-                <div class="container">
-                    <div class="row">
-                        <div class="title-section white-title">
-                            <h1>WHY C<span>HO</span>OSE US</h1>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="why-thumb wow fadeInLeft animated" data-wow-delay="0.4s">
-                                <a href="#">
-                                    <img src="<?php echo base_url('assets/images/about.jpg'); ?>" class="img-responsive" width="540" height="390" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="why-content wow fadeInRight animated" data-wow-delay="0.4s">
-                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingOne">
-                                            <h4 class="panel-title">
-                                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">UNIQUE DESIGN</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                            <div class="panel-body">
-                                                <p>Vivamus quis mi. Morbi ac felis. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Cras non dolor. Fusce pharetra convallis urna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc. ras non dolor.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingTwo">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">GREAT SERVICE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body">
-                                                <p>Vivamus quis mi. Morbi ac felis. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Cras non dolor. Fusce pharetra convallis urna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc. ras non dolor.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">EXPERIENCE TEAM</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                            <div class="panel-body">
-                                                <p>Vivamus quis mi. Morbi ac felis. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Cras non dolor. Fusce pharetra convallis urna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc. ras non dolor.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- END OF /. ACCORDION -->
-                        </div><!-- END OF /. COLUMN  -->
-                    </div><!-- END OF /. ROW -->
-                </div><!-- END OF /. CONTAINER -->
-            </div><!-- END OF /. WHY SECTION -->
 
             <!-- START SERVICE SECTION  -->
             <div class="section service-section" id="service">
@@ -565,60 +459,7 @@
                 </div><!-- END OF /. CONTAINER -->
             </div><!-- END OF /. TESTIMONIAL SECTION -->
 
-            <!-- START WE WORK SECTION -->
-            <div class="section we-work-section">
-                <div class="container">
-                    <div class="row">
-                        <div class="title-section black-title">
-                            <h1>HOW <span>WE</span> WORK</h1>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInLeft animated" data-wow-delay="0.2s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-gleam"></i>
-                                <h3>PLAN</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInLeft animated" data-wow-delay="0.4s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-exapnd2"></i>
-                                <h3>IDEA</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInLeft animated" data-wow-delay="0.6s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-display2"></i>
-                                <h3>SKETCH</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInRight animated" data-wow-delay="0.6s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-monitor"></i>
-                                <h3>DESIGN</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInRight animated" data-wow-delay="0.4s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-display1"></i>
-                                <h3>DEVELOP</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="we-work-item wow fadeInRight animated" data-wow-delay="0.2s">
-                                <div class="we-top"></div>
-                                <i class="pe-7s-check"></i>
-                                <h3>LAUNCH</h3>
-                            </div><!-- END OF WE WORAK ARE -->
-                        </div><!-- END OF /. COLUMN  -->
-                    </div><!-- END OF /. ROW -->
-                </div><!-- END OF /. CONTAINER -->
-            </div><!-- END OF /. WE WORK SECTION -->
+            
 
             <!-- START RECENT WORK SECTION -->
             <div class="section recent-work-section">

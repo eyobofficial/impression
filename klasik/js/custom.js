@@ -19,7 +19,6 @@
     13) SCROLL ANIMATION
 
 ################################################################# */
-
 $('document').ready(function() {
 
     "use strict";
@@ -195,7 +194,7 @@ $('document').ready(function() {
         OWL TESTIMONIAL ACTIVATION
     ==============================*/
     (function($){
-        var owl = $("#client");
+        var owl = $("#clientx");
         owl.owlCarousel({
             items : 4,
             itemsDesktop : [1100,3],

@@ -950,7 +950,8 @@ html, body, .wrapper{
     WHY CHOOSE SECTION
 ========================= */
 .why-section {
-    background-image: url(../images/about-bg.jpg);
+   /*  background-image: url(../images/about-bg.jpg); */
+    background: #fff;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -961,7 +962,7 @@ html, body, .wrapper{
         height: 100%;
         display: block;
         position: absolute;
-        background: rgba(3, 0, 0, 0.73);
+        /* background: rgba(3, 0, 0, 0.73); */
         top: 0;
         bottom: 0;
     }

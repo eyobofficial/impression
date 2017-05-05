@@ -12,16 +12,43 @@ class Pages extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['main_view'] .= 'index_view';
-		$this->render();
+		$this->home();
 	}
 
+
+
+	public function home()
+	{
+		$this->data['main_view'] .= 'home_view';
+		$this->render();
+	}
 
 
 	public function about()
 	{
-		$this->data['main_view'] .= 'index_view#about';
+		$this->data['main_view'] .= 'about_view';
 		$this->render();
 	}
+
+	public function service()
+	{
+		$this->data['main_view'] .= 'service_view';
+		$this->render();
+	}
+
+
+	public function showcase()
+	{
+		$this->data['main_view'] .= 'showcase_view';
+		$this->render();
+	}
+
+
+	public function contact()
+	{
+		$this->data['main_view'] .= 'contact_view';
+		$this->render();
+	}
+
 
 }/********* End Tests Controller Class ********/
