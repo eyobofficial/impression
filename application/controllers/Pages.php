@@ -16,4 +16,12 @@ class Pages extends MY_Controller {
 		$this->render();
 	}
 
+
+
+	public function about()
+	{
+		$this->data['main_view'] .= 'index_view#about';
+		$this->render();
+	}
+
 }/********* End Tests Controller Class ********/

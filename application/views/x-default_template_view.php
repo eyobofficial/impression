@@ -9,7 +9,7 @@
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
         <!-- SITE TITLE -->
-        <title>Addis Impression</title>
+        <title>Klasik - HTML5 Responsive corporate template</title>
 
         <!-- FAVICON -->
         <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>">
@@ -45,8 +45,8 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="contact-info">
-                                <p><i class="pe-7s-call"></i> +251-912-041749</p>
-                                <p><i class="pe-7s-mail"></i> bisrat98@gmail.com</p>
+                                <p><i class="pe-7s-call"></i> 305-449-3301</p>
+                                <p><i class="pe-7s-mail"></i> office@klasik.com</p>
                             </div>
                         </div><!-- END OF /. COL -->
                         <div class="col-sm-6">
@@ -55,7 +55,9 @@
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
                                 </ul>
                             </div>
                         </div><!-- END OF /. COL -->
@@ -1218,25 +1220,25 @@
         </div><!-- END OF /. WRAPPER -->
 
         <!-- JQUERY LIBERY -->
-        <script src="<?php echo base_url('assets/js/vendor/jquery-1.11.2.min.js'); ?>"></script>
+        <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
         <!-- BOOTSTRAP -->
-        <script src="<?php echo base_url('assets/js/vendor/bootstrap.min.js'); ?>"></script>
+        <script src="assets/js/vendor/bootstrap.min.js"></script>
         <!-- APPEAR JS  -->
-        <script src="<?php echo base_url('assets/js/jquery.appear.js'); ?>"></script>
+        <script src="assets/js/jquery.appear.js"></script>
         <!-- WAYPOINTS -->
-        <script src="<?php echo base_url('assets/js/waypoints.min.js'); ?>"></script>
+        <script src="assets/js/waypoints.min.js"></script>
         <!-- CUSTOM JS -->
-        <script src="<?php echo base_url('assets/js/jquery.counterup.min.js'); ?>"></script>
+        <script src="assets/js/jquery.counterup.min.js"></script>
         <!-- ISOTOPE -->
-        <script src="<?php echo base_url('assets/js/isotope.pkgd.min.js'); ?>"></script>
+        <script src="assets/js/isotope.pkgd.min.js"></script>
         <!-- PRETTY PHOTO -->
-        <script src="<?php echo base_url('assets/js/jquery.prettyPhoto.js'); ?>"></script>
+        <script src="assets/js/jquery.prettyPhoto.js"></script>
         <!-- OWL CAROSEL -->
-        <script src="<?php echo base_url('assets/js/owl.carousel.min.js'); ?>"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- WOW JS -->
-        <script src="<?php echo base_url('assets/js/wow.min.js'); ?>"></script>
+        <script src="assets/js/wow.min.js"></script>
         <!-- CUSTOM JS -->
-        <script src="<?php echo base_url('assets/js/custom.js'); ?>"></script>
+        <script src="assets/js/custom.js"></script>
 
     </body>
 </html>
