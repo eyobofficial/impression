@@ -9,7 +9,7 @@
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
         <!-- SITE TITLE -->
-        <title>Addis Impression</title>
+        <title>Addis Impression - <?php echo ucwords($page_title); ?></title>
 
         <!-- FAVICON -->
         <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>">
@@ -84,11 +84,11 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="active"><a href="<?php echo site_url('pages/home'); ?>">HOME</a></li>
-                                <li><a href="<?php echo site_url('pages/about'); ?>">ABOUT</a></li>
-                                <li><a href="<?php echo site_url('pages/service'); ?>">SERVICE</a></li>
-                                <li><a href="<?php echo site_url('pages/showcase'); ?>">Showcase</a></li>
-                                <li><a href="<?php echo site_url('pages/contact'); ?>">CONTACT</a></li>
+                                <li class="<?php if($page_title === 'Home'){echo 'active';} ?>"><a href="<?php echo site_url('pages/home'); ?>">HOME</a></li>
+                                <li class="<?php if($page_title === 'About Us'){echo 'active';} ?>"><a href="<?php echo site_url('pages/about'); ?>">ABOUT</a></li>
+                                <li class="<?php if($page_title === 'Our Service'){echo 'active';} ?>"><a href="<?php echo site_url('pages/service'); ?>">SERVICE</a></li>
+                                <li class="<?php if($page_title === 'Showcase'){echo 'active';} ?>"><a href="<?php echo site_url('pages/showcase'); ?>">Showcase</a></li>
+                                <li class="<?php if($page_title === 'Contact Us'){echo 'active';} ?>"><a href="<?php echo site_url('pages/contact'); ?>">CONTACT</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                     </div><!-- /.container-fluid -->

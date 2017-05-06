@@ -120,9 +120,8 @@
             <div class="testimonial-area">
                 <div class="testimonia-box  col-md-8 col-md-offset-2">
                     <div id="testimonial" class="testimanial-area">
-                        <!--<img src="<?php echo base_url('assets/images/iphone5.png'); ?>" width="303" height="613" alt="">   -->
                         <div class="item">
-                            <img src="<?php echo base_url('assets/images/client.jpg'); ?>" class="img-responsive" width="255" height="300" alt="">
+                            <img src="<?php echo base_url('assets/images/client.jpg'); ?>" class="img-responsive" width="255" height="255" alt="">
                             <div class="testimonial-details">
                                 <h3>John doe</h3><!--  TITLE -->
                                 <h4>Ceo & Company Founder</h4>

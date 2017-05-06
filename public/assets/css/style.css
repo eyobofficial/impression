@@ -1458,7 +1458,7 @@ html, body, .wrapper{
     padding-bottom: 0;
 }
     .testimonial-area {
-        background-image: url(../images/testimonial-bg.jpg);
+       /*  background-image: url(../images/testimonial-bg.jpg); */
         background-size: cover;
         text-align: center;
         position: relative;
@@ -1497,6 +1497,7 @@ html, body, .wrapper{
     .testimanial-area  .item > img {
         width:160px;
         height: 160px;
+        border: 2px solid #fff;
         border-radius: 50%;
         display: inline-block;
     }
