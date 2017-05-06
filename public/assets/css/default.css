@@ -1,0 +1,121 @@
+/********************** Default Margin & Padding Classes **************************/
+.breath-right-sm {
+	margin-right: 1.2em;
+}
+
+
+.breath-right-md {
+	margin-right: 2em;
+}
+
+.breath-right-lg {
+	margin-right: 2.6em;
+}
+
+
+.breath-left-sm {
+	margin-left: 1.2em;
+}
+
+
+.breath-left-md {
+	margin-left: 2em;
+}
+
+.breath-left-lg {
+	margin-left: 2.6em;
+}
+
+
+
+.breath-down-sm {
+	margin-bottom: 1.2em;
+}
+
+
+.breath-down-md {
+	margin-bottom: 2em;
+}
+
+.breath-down-lg {
+	margin-bottom: 2.6em;
+}
+
+.breath-up-sm {
+	margin-top: 1.2em;
+}
+
+
+.breath-up-md {
+	margin-top: 2em;
+}
+
+
+.breath-up-md {
+	margin-top: 2.6em;
+}
+
+.breath-both-sm {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+
+.breath-up-xs {
+	margin-top: 0.6em;
+}
+
+
+.breath-down-xs {
+	margin-bottom: 0.6em;
+}
+
+
+.breath-both-md {
+	margin-top: 2em !important;
+	margin-bottom: 2em;
+}
+
+
+.breath-both-lg {
+	margin-top: 2.6em;
+	margin-bottom: 2.6em;
+}
+
+
+
+.pad-down-sm {
+	padding-bottom: 1.2em;
+}
+
+
+
+.pad-down-md {
+	padding-bottom: 2em;
+}
+
+
+.pad-down-lg {
+	padding-bottom: 2.8em;
+}
+
+
+.pad-up-sm {
+	padding-top: 1.2em;
+}
+
+
+
+.pad-up-md {
+	padding-top: 2em !important;
+}
+
+
+.pad-up-lg {
+	padding-top: 2.8em;
+}
+
+
+.pad-left-md {
+	padding-left: 2.8em;
+}

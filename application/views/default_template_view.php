@@ -143,26 +143,21 @@
                         </div><!-- END OF /. COLUMN -->
                         <div class="col-md-3 wow fadeInDown animated" data-wow-delay="0.8s">
                             <div class="widget">
-                                <h3 class="headline">POPULAR TAGS</h3>
+                                <h3 class="headline">POPULAR PRODUCTS</h3>
                                 <div class="widget-item">
                                     <div class="tagcloud">
-                                        <a href="#">Wordpress</a>
-                                        <a href="#">HTML</a>
-                                        <a href="#">Joomla</a>
-                                        <a href="#">PSD</a>
-                                        <a href="#">CSS</a>
-                                        <a href="#">PHP</a>
-                                        <a href="#">Javascript</a>
-                                        <a href="#">Android</a>
-                                        <a href="#">Clean</a>
-                                        <a href="#">Free PSD</a>
-                                        <a href="#">JS</a>
-                                        <a href="#">Online aplication</a>
-                                        <a href="#">Mozzilla</a>
-                                        <a href="#">Jqurey</a>
-                                        <a href="#">SEO</a>
-                                        <a href="#">Facebook</a>
-                                        <a href="#">CSS3</a>
+                                        <a href="#">Wall Branding</a>
+                                        <a href="#">Car Branding</a>
+                                        <a href="#">Posters</a>
+                                        <a href="#">Roll ups</a>
+                                        <a href="#">Brochures</a>
+                                        <a href="#">Notepads</a>
+                                        <a href="#">Business Cards</a>
+                                        <a href="#">Folders</a>
+                                        <a href="#">Pens</a>
+                                        <a href="#">Gowns</a>
+                                        <a href="#">Keychains</a>
+                                        <a href="#">Company Profiles</a>
                                     </div>
                                 </div><!-- END OF /. WIDGET ITEM -->
                             </div><!-- END OF /. WIDGET -->

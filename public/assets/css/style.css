@@ -36,6 +36,7 @@ Version: 1.0.0
 @import url(prettyPhoto.css) screen;
 @import url(animate.min.css) screen;
 @import url(pe-icon-7-stroke.css) screen;
+@import url(default.css) screen;
 
 /* FONTS */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,600italic,700,800,400italic);

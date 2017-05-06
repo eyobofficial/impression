@@ -8,42 +8,27 @@
         </div>
         <div class="row">
             <div class="col-sm-6">
-                <div class="about-content wow fadeInLeft animated" data-wow-delay="0.4s">
-                    <h3> Our Company Quality</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis dolores eveniet. Duis lobortis massa imperdiet quam. Sed turpis. Praesent ut ligula non mi varius sagittis. Etiam sollicitudin, ipsum eu pulvinar rutrum. beatae vitae dicta sunt explicabo</p>
+                <div class="about-content wow fadeInLeft animated" data-wow-delay="0.2s">
+                    <h3> Who we are</h3>
+                    <p>Established in 2014, Addis Impression is a marketing agency providing a full scale marketing, advertising and printing services for our esteemed customers. Our sole purpose is to help you add value to your business. We always work hard to make sure we are providing our customers with the best marketing strategies and high quality printings at the most affordable rate. We excel in offset printing, digital printing, multi-media ads, sign boards and many more promotional services. All our products are quality assured and our craftsmen skillfully design and develop each pieces of the products. Depending on your specific business requirements, we tailor our products and services to produce unique results and exceed customer satisfaction.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <div class="about-content wow fadeInRight animated" data-wow-delay="0.2s">
+                    <h3> Our Mission</h3>
+                    <p>Our office system is dedicated, first and foremost, to the supply of the highest quality products to meet the needs and demands of our customers while achieving an acceptable return on investment. This will be realized both internally and externally by continuous communication between management, employees, suppliers, customers and community, and by on-going improvement of process, systems, equipment and use of human resources. We intend to maintain honesty and integrity in every aspect of our work as well as to maintain the strong bonds with our clients and suppliers. We are looking forward to expand our presence in the marketplace by the development of new products, conducting continuous researches and introducing new technologies that will benefit our customers. </p>
+                </div>
+            </div>
+
+            <div class="col-sm-12">
+                <div class="about-content wow fadeInRight animated text-center" data-wow-delay="0.2s">
+                    <h3></h3>
                     <a href="#">Get In Touch</a>
                 </div>
             </div>
-            <div class="col-sm-6">
-                <div class="about-skill wow fadeInRight animated" data-wow-delay="0.4s">
-                    <h3>OUR SKILL</h3>
-                    <div class="skill">
-                        <div class="skill-bar skill1 ">
-                            <p> PHOTOSHOP</p>
-                            <span class="skill-count1">95%</span>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <div class="skill-bar skill2">
-                            <p>HTML/CSS</p>
-                             <span class="skill-count2">85%</span>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <div class="skill-bar skill3">
-                            <p>WORDPRESS</p>
-                            <span class="skill-count3">75%</span>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <div class="skill-bar skill4">
-                            <p>LARAVEL</p>
-                            <span class="skill-count4">65%</span>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- END OF /. COLUMN -->
-        </div><!-- END OF /. ROW -->
+
+        </div><!--/ End .row -->
     </div><!-- END OF ./ CONTAINER -->
 </div><!-- END OF /. ABOUT SECTION -->
 

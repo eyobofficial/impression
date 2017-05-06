@@ -13,24 +13,18 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img src="<?php echo base_url('assets/images/slider/1.jpg'); ?>" width="1920" height="925" alt="">
-                    <div class="carousel-caption">
-                        <h1>A CREATIVE DESIGN AGENCY  </h1>
-                        <p>TO ARTLESS 100% RESPONSIVE <b>K<span>l</span>asik</b> THEME</p>
-                    </div>
-                </div><!-- END OF /. SLIDER ITEM -->
-                <div class="item">
                     <img src="<?php echo base_url('assets/images/slider/2.jpg'); ?>" width="1920" height="925" alt="">
                     <div class="carousel-caption">
-                        <h1>GREAT EXPERIENCES build designs!</h1>
-                        <p>WITH BRIGHTER IDEAS THAT WORK</p>
+                        <h1>MARKETING &AMP; ADVERTISING AGENCY</h1>
+                        <p>WHERE <b><span>QUALITY</span></b> IS 100% AMPLIFIED</p>
                     </div>
                 </div><!-- END OF /. SLIDER ITEM -->
+            
                 <div class="item">
                     <img src="<?php echo base_url('assets/images/slider/3.jpg'); ?>" width="1920" height="925" alt="">
                     <div class="carousel-caption">
-                        <h1>WE LOVE TO UNIQUE creative</h1>
-                        <p>TO ARTLESS 100% RESPONSIVE <b>K<span>l</span>asik</b> THEME</p>
+                        <h1>WE LOVE TO MAKE YOU SHINE</h1>
+                        <p>WITH CREATIVE <b><span>IDEAS</span></b> THAT WORK</p>
                     </div>
                 </div><!-- END OF /. SLIDER ITEM -->
                 <!-- Controls -->
