@@ -13,11 +13,11 @@
                         <h1>Addis <span>Impression</span></h1>
                     </div>
                     <h3>We'd love To Meet You In Person Or Via The Web!</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel nulla sapien. Class aptent tacitiaptent taciti sociosqu ad lit himenaeos. Suspendisse massa urna, luctus ut vestibulum necs et, vulputate quis urna. Donec at commodo erat.</p>
+                    <p></p>
                     <div class="contact-info">
-                        <p><b>Phone:</b> 1.555.555.5555</p>
-                        <p><b>Main Office:</b> 123 Elm St. New York City, NY </p>
-                        <p><b>Email:</b> info@yourdomain.com</p>
+                        <p><b>Phone:</b> +251.912.04.17.49</p>
+                        <p><b>Main Office:</b> 3rd Floor Anat Building, Addis Ababa </p>
+                        <p><b>Email:</b> bisrat98@gmail.com</p>
                     </div>
                     <div class="footer-social-media">
                         <ul>

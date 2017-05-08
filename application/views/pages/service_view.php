@@ -12,10 +12,10 @@
                 <div class="service-item">
                     <div class="service-conent">
                         <a href="#">
-                            <i class="pe-7s-vector"></i>
+                            <i class="pe-7s-graph3"></i>
                         </a>
                         <h3>Marketing Consultation</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We provide periodic marketing consultations on market penetration and market sustainablility</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -24,10 +24,10 @@
                 <div class="service-item">
                     <div class="service-conent">
                         <a href="#">
-                            <i class="pe-7s-vector"></i>
+                            <i class="pe-7s-light"></i>
                         </a>
                         <h3>Product Promotions</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We promote your new or existing products to prospective customers to increase market demands.</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -40,7 +40,7 @@
                             <i class="pe-7s-display2"></i>
                         </a>
                         <h3>Branding</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We provide wall branding, car branding, shop signages, posters, roll ups and tear drops</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -51,10 +51,10 @@
                 <div class="service-item">
                     <div class="service-conent">
                         <a href="#">
-                            <i class="pe-7s-display2"></i>
+                            <i class="pe-7s-print"></i>
                         </a>
                         <h3>Printing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>High quality printing of business cards, brochures, folders, tshirts, pens and many more</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -65,10 +65,10 @@
                 <div class="service-item">
                     <div class="service-conent">
                         <a href="#">
-                            <i class="pe-7s-display2"></i>
+                            <i class="pe-7s-diamond"></i>
                         </a>
                         <h3>Product Launching</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We launch your new products in a way that makes the maximum impact on your ideal customers</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -78,10 +78,10 @@
                 <div class="service-item">
                     <div class="service-conent">
                         <a href="#">
-                            <i class="pe-7s-display2"></i>
+                            <i class="pe-7s-date"></i>
                         </a>
                         <h3>Event Organizing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We also excel in organizing and promoting of successful and flawless events</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -94,7 +94,7 @@
                             <i class="pe-7s-camera"></i>
                         </a>
                         <h3>Digital Media Advertising</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We provide effective digital media advertising service for your next radio &amp; tv promotion needs</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->
@@ -107,7 +107,7 @@
                             <i class="pe-7s-monitor"></i>
                         </a>
                         <h3>Web Development</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam</p>
+                        <p>We provide web design and development services with all the modern web development trends</p>
                     </div><!-- END OF /. SERVICE CONTENT -->
                 </div><!-- END /. SERVICE ITEM -->
             </div><!-- END OF /. COLUMN -->

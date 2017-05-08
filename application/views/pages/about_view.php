@@ -95,7 +95,6 @@
         <div class="row">
             <div class="title-section black-title">
                 <h1>OUR <span>T</span>EAM</h1>
-                <p>We listed below some pricing details of pori services</p>
             </div>
         </div>
         <div class="row">
@@ -112,11 +111,11 @@
                         </ul>
                     </div><!-- END OF /. SOCIAL MEDIA -->
                     <a href="#">
-                        <img src="<?php echo base_url('assets/images/team/1.jpg'); ?>" class="img-responsive" width="255" height="396" alt="">
+                        <img src="<?php echo base_url('assets/images/team/bisrat.jpg'); ?>" class="img-responsive" width="263" height="396" alt="">
                     </a>
                     <div class="caption">
-                        <h2>DESSY BEBEK BENGIL</h2>
-                        <h3>Web Developer</h3>
+                        <h2>BISRAT DERIBEW</h2>
+                        <h3>Agency Manager</h3>
                     </div>
                 </div><!-- END OF /. TEAM ITEM -->
             </div><!-- END OF /. CLOUMN -->
@@ -133,11 +132,11 @@
                         </ul>
                     </div><!-- END OF /. SOCIAL MEDIA -->
                     <a href="#">
-                        <img src="<?php echo base_url('assets/images/team/2.jpg'); ?>" class="img-responsive" width="255" height="396" alt="">
+                        <img src="<?php echo base_url('assets/images/team/mona.jpg'); ?>" class="img-responsive" width="263" height="396" alt="">
                     </a>
                     <div class="caption">
-                        <h2>MELLANIE CLARK</h2>
-                        <h3>Web Developer</h3>
+                        <h2>MONALISA HAILE</h2>
+                        <h3>Marketing &amp; Branding Director</h3>
                     </div>
                 </div><!-- END OF /. TEAM ITEM -->
             </div><!-- END OF /. CLOUMN -->
@@ -154,11 +153,11 @@
                         </ul>
                     </div><!-- END OF /. SOCIAL MEDIA -->
                     <a href="#">
-                        <img src="<?php echo base_url('assets/images/team/3.jpg'); ?>" class="img-responsive" width="255" height="396" alt="">
+                        <img src="<?php echo base_url('assets/images/team/misiker.jpg'); ?>" class="img-responsive" width="263" height="396" alt="">
                     </a>
                     <div class="caption">
-                        <h2>PAMAN GEMBUL</h2>
-                        <h3>Graphic Designer</h3>
+                        <h2>MISIKIR HAILEYESUS</h2>
+                        <h3>Graphics Designer</h3>
                     </div>
                 </div><!-- END OF /. TEAM ITEM -->
             </div><!-- END OF /. CLOUMN -->
@@ -175,10 +174,10 @@
                         </ul>
                     </div><!-- END OF /. SOCIAL MEDIA -->
                     <a href="#">
-                        <img src="<?php echo base_url('assets/images/team/4.jpg'); ?>" class="img-responsive" width="255" height="396" alt="">
+                        <img src="<?php echo base_url('assets/images/team/eyob.jpg'); ?>" class="img-responsive" width="263" height="396" alt="">
                     </a>
                     <div class="caption">
-                        <h2>Tom Jacson</h2>
+                        <h2>EYOB TARIKU</h2>
                         <h3>Web Developer</h3>
                     </div>
                 </div><!-- END OF /. TEAM ITEM -->

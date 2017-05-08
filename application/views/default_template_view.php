@@ -12,13 +12,14 @@
         <title>Addis Impression - <?php echo ucwords($page_title); ?></title>
 
         <!-- FAVICON -->
-        <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>">
-		<link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="57x57">
-		<link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="72x72">
-		<link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="114x114">
-		<link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="144x144">
-
+       <!--  <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>">
+               <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="57x57">
+               <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="72x72">
+               <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="114x114">
+               <link rel="icon" href="<?php echo base_url('assets/images/favicon/favicon.png'); ?>" sizes="144x144">
+        -->
         <!-- STYLE -->
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/default.css'); ?>">
         <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
 
         <!--[if lt IE 9]>
@@ -107,36 +108,31 @@
                             <div class="widget">
                                 <h3 class="headline">ABOUT US</h3>
                                 <div class="widget-item">
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                                    <p>We are a marketing agency providing a full scale marketing, advertising and printing services for our esteemed customers. We excel in offset printing, digital printing, multi-media ads, sign boards and many more promotional services.</p>
                                 </div><!-- END OF /. WIDGET ITEM -->
                             </div><!-- END OF /. WIDGET -->
                         </div><!-- END OF /. COLUMN -->
                         <div class="col-md-3 wow fadeInDown animated" data-wow-delay="0.4s">
                             <div class="widget">
-                                <h3 class="headline">RECENT POST</h3>
+                                <h3 class="headline">Follow Us</h3>
                                 <div class="widget-item">
                                     <ul>
-                                        <li><a href="#">History of brooklyn</a></li>
-                                        <li><a href="#">Penang street food</a></li>
-                                        <li><a href="#">The mist of madagascar</a></li>
-                                        <li><a href="#">J.R.R. tolkin</a></li>
-                                        <li><a href="#">Morocco road trip</a></li>
-                                        <li><a href="#">The noise - elixir</a></li>
+                                        <li><a href="#"><i class="fa fa-facebook"></i>  &nbsp;Facebook</a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i> &nbsp;Twitter</a></li>
+                                        <li><a href="#"><i class="fa fa-youtube"></i> &nbsp;Youtube</a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i> &nbsp;Linkedin</a></li>
+                                        <li><a href="#"><i class="fa fa-instagram"></i> &nbsp;Instagram</a></li>
                                     </ul>
                                 </div><!-- END OF /. WIDGET ITEM -->
                             </div><!-- END OF /. WIDGET -->
                         </div><!-- END OF /. COLUMN -->
                         <div class="col-md-3 wow fadeInDown animated" data-wow-delay="0.6s">
                             <div class="widget">
-                                <h3 class="headline">TOP COMMENTS</h3>
-                                <div class="widget-item">
-                                    <ul>
-                                        <li><a href="#">Er zijn vele variaties van</a></li>
-                                        <li><a href="#">van Lorem Ipsum beschikbaar</a></li>
-                                        <li><a href="#">het merendeel heeft te lijden</a></li>
-                                        <li><a href="#">van wijzigingen in een of</a></li>
-                                        <li><a href="#">vorm, door ingevoegde humor</a></li>
-                                        <li><a href="#">willekeu seloofwaardig ogen.</a></li>
+                                <h3 class="headline">Get in Touch</h3>
+                                <div>
+                                    <ul class="list-unstyled">
+                                        <li><i class="fa fa-phone"></i> +251912 041749</li>
+                                        <li><i class="fa fa-map-marker"></i> Around Atlas <br> Anat Bldg, 3rd Floor <br> Addis Ababa, Ethiopia</li>
                                     </ul>
                                 </div><!-- END OF /. WIDGET ITEM -->
                             </div><!-- END OF /. WIDGET -->
